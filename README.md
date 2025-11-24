@@ -1,4 +1,4 @@
-Web3 Trading Analysis: Trader Behavior vs Market Sentiment
+# Web3 Trading Analysis: Trader Behavior vs Market Sentiment
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Project Overview
