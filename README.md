@@ -20,9 +20,6 @@ All charts and plots are stored in the `outputs/` folder:
 - Daily PnL line chart  
 - Trade size & fee histograms  
 
-## 🔗 Colab Links
-- [Notebook 1 (Colab)](https://colab.research.google.com/drive/1DFIVOhFjP5uR9pfairpN-dXmAxiFC_D2?usp=sharing)  
-
 
 ## 📁 Data Sources
 - Historical Trader Data: [Google Drive Link](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)  
